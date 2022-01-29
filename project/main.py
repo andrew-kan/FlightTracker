@@ -4,8 +4,6 @@ def main_wrapper():
     # Code here
 
 
-    THIS IS A BREAKING CHANGE
-
     print("This is the end of our Python project.")
 
 if __name__ == "__main__":
